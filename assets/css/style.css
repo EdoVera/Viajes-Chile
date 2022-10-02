@@ -24,6 +24,10 @@ body {
   background-color: #000;
 }
 
+.btn {
+  color: #fff;
+}
+
 @media (min-width: 1200px) {
   .container {
     width: 1140px;
