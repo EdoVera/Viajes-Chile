@@ -1,7 +1,7 @@
 $(function () {
     // Cambiar el navbar de transparente a color 
     $(window).scroll(function () {
-      if ($(this).scrollTop() > 960) {
+      if ($(this).scrollTop() > 940) {
         $('#navHome').addClass("fondo-nav");
       } else {
         $('#navHome').removeClass("fondo-nav");
